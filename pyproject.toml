@@ -1,0 +1,14 @@
+[project]
+name = "ocean-data-sources"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "cdsapi>=0.7.7",
+    "cfgrib>=0.9.15.1",
+    "eccodes>=2.45.0",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
+    "xarray>=2026.1.0",
+]
