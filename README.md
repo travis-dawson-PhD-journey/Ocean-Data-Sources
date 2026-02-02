@@ -9,6 +9,7 @@ A description of data ocean data sources, high level exploration, and how to acc
 
 ## Brief Exploration
 - **ERA5:** `era5.ipynb`
+- **Altimeter:** `altimeter.ipynb`
 
 ## Data Source Notes
 
